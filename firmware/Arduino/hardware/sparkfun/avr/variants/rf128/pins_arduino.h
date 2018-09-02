@@ -79,7 +79,7 @@ const static uint8_t A7 = 33;
                                 ( ((p) == 12) ? 3 : \
                                 ( ((p) == 13) ? 1 : \
                                 ( ((p) == 20) ? 2 : \
-                                0 ) ) ) ) ) )
+				  0 ) ) ) ) ) )))
 
 #ifdef ARDUINO_MAIN
 
