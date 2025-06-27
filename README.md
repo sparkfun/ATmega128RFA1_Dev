@@ -3,7 +3,7 @@ ATmega128RFA1 Development Board
 
 A development platform for the ATmega128RFA1 -- an 8-bit microcontroller combined with an 802.15.4 RF engine.
 
-[![ATmega128RFA1 Dev Board](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/1/1/9/7/11197-01a_medium.jpg)  
+[![ATmega128RFA1 Dev Board](https://cdn.sparkfun.com/assets/parts/6/7/5/9/11197-01a.jpg)  
 *ATmega128RFA1 Dev Board*](https://www.sparkfun.com/products/11197)
 
 Design files and firmware files for the [ATmega128RFA1 Development Board](https://www.sparkfun.com/products/11197).
